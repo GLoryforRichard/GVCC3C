@@ -42,4 +42,6 @@ int main(void){
     }
     cout << a << " "<< b <<endl;
     cout << c << " "<< d <<endl;
+    
+    return 0;
 }
